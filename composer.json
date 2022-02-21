@@ -48,6 +48,7 @@
         "source": "https://github.com/pear/SOAP"
     },
     "type": "library",
+    "version": "1.0.0",
     "require": {
         "pear/pear_exception": "*",
         "pear/pear": "*"
